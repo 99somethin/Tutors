@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="TutorsBro.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:TutorsBro.Views.Startup"
+    xmlns:dashboard="clr-namespace:TutorsBro.Views.Dashboard"
+    xmlns:startupPages="clr-namespace:TutorsBro.Views.Startup"
+    Shell.TabBarIsVisible="False"
+    Title="TutorsBro">
+
+    <ShellContent
+         FlyoutItemIsVisible="False" Shell.FlyoutBehavior="Disabled"
+         Title = "Dashboard" 
+         ContentTemplate="{DataTemplate local:LoadingPage}"
+         Route="LoadingPage"
+         />
+
+    <ShellContent
+     FlyoutItemIsVisible="False" Shell.FlyoutBehavior="Disabled"
+     Title = "Dashboard" 
+     ContentTemplate="{DataTemplate local:SignUpPage}"
+     Route="SignUpPage"
+     />
+
+    <ShellContent 
+        Title="Login Page"
+        Shell.TitleColor="LimeGreen"
+        Shell.BackgroundColor="LimeGreen"
+        FlyoutItemIsVisible="False" Shell.FlyoutBehavior="Disabled"
+        ContentTemplate="{DataTemplate startupPages:LoginPage }"
+        Route="LoginPage" />
+
+    
+    <Shell.FlyoutFooter>
+        <StackLayout Padding="20">
+            <Button Text="Sign out"  Command="{Binding SignOutCommand}"/>
+        </StackLayout>
+    </Shell.FlyoutFooter>
+
+</Shell>

@@ -1,0 +1,1 @@
+D:\MAUI projects\TutorsBro\TutorsBro.csproj;x64

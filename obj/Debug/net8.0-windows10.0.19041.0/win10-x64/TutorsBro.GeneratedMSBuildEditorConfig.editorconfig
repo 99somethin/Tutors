@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TutorsBro
+build_property.ProjectDir = D:\MAUI projects\TutorsBro\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/MAUI projects/TutorsBro/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/MAUI projects/TutorsBro/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/MAUI projects/TutorsBro/Controls/Flyout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Controls.Flyout.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\Flyout.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\Flyout.xaml
+
+[D:/MAUI projects/TutorsBro/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/MAUI projects/TutorsBro/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/MAUI projects/TutorsBro/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/MAUI projects/TutorsBro/Views/Dashboard/AdminDashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Views.Dashboard.AdminDashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\AdminDashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\AdminDashboardPage.xaml
+
+[D:/MAUI projects/TutorsBro/Views/Dashboard/DashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Views.Dashboard.DashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\DashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\DashboardPage.xaml
+
+[D:/MAUI projects/TutorsBro/Views/Dashboard/StudentDashboardPagexaml.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Views.Dashboard.StudentDashboardPagexaml.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\StudentDashboardPagexaml.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\StudentDashboardPagexaml.xaml
+
+[D:/MAUI projects/TutorsBro/Views/Dashboard/TeacherDashboardPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Views.Dashboard.TeacherDashboardPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Dashboard\TeacherDashboardPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Dashboard\TeacherDashboardPage.xaml
+
+[D:/MAUI projects/TutorsBro/Views/Startup/LoadingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Views.Startup.LoadingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Startup\LoadingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Startup\LoadingPage.xaml
+
+[D:/MAUI projects/TutorsBro/Views/Startup/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Views.Startup.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Startup\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Startup\LoginPage.xaml
+
+[D:/MAUI projects/TutorsBro/Views/Startup/SignUpPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TutorsBro.Views.Startup.SignUpPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Startup\SignUpPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Startup\SignUpPage.xaml
